@@ -1,4 +1,4 @@
-# iniguia-estudos-rh-notebooklm# 📘 Miniguia de Estudos em Recursos Humanos com apoio de IA (NotebookLM)
+# miniguia-estudos-rh-notebooklm# 📘 Miniguia de Estudos em Recursos Humanos com apoio de IA (NotebookLM)
 
 ## 📌 Contexto e Objetivos
 
